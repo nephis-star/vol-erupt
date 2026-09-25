@@ -1,0 +1,14 @@
+{
+    "name": "Borlagdanjohnmichael.Mcp.Editor.Tests",
+    "references": [
+        "Borlagdanjohnmichael.Mcp.Editor",
+        "Borlagdanjohnmichael.Mcp"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

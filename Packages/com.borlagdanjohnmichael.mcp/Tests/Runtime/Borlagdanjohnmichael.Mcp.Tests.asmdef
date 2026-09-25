@@ -1,0 +1,11 @@
+{
+    "name": "Borlagdanjohnmichael.Mcp.Tests",
+    "references": [
+        "Borlagdanjohnmichael.Mcp"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

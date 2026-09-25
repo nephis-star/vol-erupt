@@ -1,0 +1,10 @@
+{
+    "name": "Borlagdanjohnmichael.Mcp.Editor",
+    "references": [
+      "Borlagdanjohnmichael.Mcp"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
