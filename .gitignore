@@ -1,0 +1,60 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+<<<<<<< HEAD
+[Pp]ackages/
+[Pp]refabs/[Aa]ssets/
+[Oo]bj/
+[Oo]ut/
+[Bb]uild/
+[Bb]uilds/
+[Uu]nderstandings/
+=======
+[Pp]ackages/[Aa]ssets/
+[Bb]uild/
+[Bb]uilds/
+[Uu]nderstandings/
+
+# Visual Studio
+>>>>>>> a57a7b9 (Add evacuation outro video flow + all project assets)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.idb
+*.cache
+*.bak
+<<<<<<< HEAD
+
+# Visual Studio
+.vs/
+.idea/
+=======
+.vs/
+.idea/
+.vscode/
+>>>>>>> a57a7b9 (Add evacuation outro video flow + all project assets)
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+<<<<<<< HEAD
+=======
+desktop.ini
+>>>>>>> a57a7b9 (Add evacuation outro video flow + all project assets)
+
+# Docker
+docker-test/
+
+# Python
+__pycache__/
+*.pyc
